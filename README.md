@@ -49,11 +49,6 @@ Welcome to the **E-Commerce Website** – a simple yet powerful online shopping 
 
 ---
 
-## 📷 Screenshots
-🚀 *[Add your project screenshots here]*
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
